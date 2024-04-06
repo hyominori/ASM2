@@ -1,0 +1,13 @@
+D:\Programming\source\repos\DDD ASM 2\bin\Debug\DDD ASM 2.exe.config
+D:\Programming\source\repos\DDD ASM 2\bin\Debug\DDD ASM 2.exe
+D:\Programming\source\repos\DDD ASM 2\bin\Debug\DDD ASM 2.pdb
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD ASM 2.csproj.AssemblyReference.cache
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD_ASM_2.Admin.resources
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD_ASM_2.Form1.resources
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD_ASM_2.Properties.Resources.resources
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD_ASM_2.Students.resources
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD_ASM_2.Teachers.resources
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD ASM 2.csproj.GenerateResource.cache
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD ASM 2.csproj.CoreCompileInputs.cache
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD ASM 2.exe
+D:\Programming\source\repos\DDD ASM 2\obj\Debug\DDD ASM 2.pdb
